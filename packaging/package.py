@@ -26,7 +26,7 @@ import json
 archive=root.parent/'LK-Nova-1.0-Publication.zip'
 with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED) as z:
  for p in sorted(root.rglob('*')):
-  if not p.is_file() or any(part in p.parts for part in ['__pycache__','output']) or p.name in ['.DS_Store','package-validation.json'] or p.suffix=='.pyc':continue
+  if not p.is_file() or any(part in p.parts for part in ['__pycache__','output','.git']) or p.name in ['.DS_Store','package-validation.json'] or p.suffix=='.pyc':continue
   z.write(p,'LK-Nova-1.0/'+str(p.relative_to(root)))
 with zipfile.ZipFile(archive) as z:
  assert z.testzip() is None

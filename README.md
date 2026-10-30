@@ -2,7 +2,7 @@
 
 Variable display typeface for headlines and branding. Nine axes, 280 encoded characters and six static weights. Free for personal and commercial use under the included permission.
 
-[Deutsch](README.de.md)
+[Product page](https://louis-kaiser.github.io/lk-nova/) · [Download](https://github.com/louis-kaiser/lk-nova/releases/latest) · [Deutsch](README.de.md)
 
 ## Use
 
