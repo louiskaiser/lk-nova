@@ -1,8 +1,8 @@
 # Publishing LK Nova
 
-Use GitHub Pages for the product presentation and GitHub Releases for versioned downloads. Repository: https://github.com/louis-kaiser/lk-nova
+Use GitHub Pages for the product presentation and GitHub Releases for versioned downloads. Repository: https://github.com/louiskaiser/lk-nova
 
-Product page: https://louis-kaiser.github.io/lk-nova/
+Product page: https://louiskaiser.github.io/lk-nova/
 
 1. Create a repository in the intended account or organization.
 2. Place this folder's contents at the repository root, including `.github/`, `docs/`, `source/`, `packaging/`, `dist/` and the documentation.
