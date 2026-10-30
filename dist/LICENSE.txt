@@ -1,0 +1,18 @@
+LK NOVA — COMMERCIAL USE PERMISSION
+Version 1.000 · 2026
+
+The original font binaries and geometric outline sources in this package may
+be used, installed, copied, modified, animated, embedded, distributed and sold
+for any personal or commercial purpose, including websites, applications,
+software, publications, logos, branding, video, physical products and merchandise.
+
+No attribution, royalties, subscription or per-seat fee is required by this
+permission. Modified versions may be used commercially on the same basis.
+
+This permission covers the original LK Nova files in this package.
+Build dependencies retain their own licenses. No Helvetica Neue font software,
+glyph outlines or other third-party font files are included in these outputs.
+
+THE FILES ARE PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND. TO THE EXTENT
+PERMITTED BY LAW, THE AUTHORS ARE NOT LIABLE FOR CLAIMS OR DAMAGES ARISING
+FROM THEIR USE.

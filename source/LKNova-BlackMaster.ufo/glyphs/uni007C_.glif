@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni007C" format="2">
+  <advance width="170"/>
+  <unicode hex="007C"/>
+  <note>
+Original rectangle/ellipse construction; upright default master.
+</note>
+  <outline>
+    <contour>
+      <point x="42.0" y="756.0" type="line"/>
+      <point x="127.932" y="756.0" type="line"/>
+      <point x="127.932" y="-84.0" type="line"/>
+      <point x="42.0" y="-84.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,126 @@
+{
+  "status": "passed",
+  "redrawn_latin_letters": 52,
+  "tangent_aligned_consecutive_cubic_joins": 415,
+  "intentional_concave_branches": [
+    {
+      "glyph": "B",
+      "position": [
+        70.0,
+        48.0
+      ],
+      "angle": 180.0,
+      "reason": "Intentional concave branch between letter strokes; not a smooth bowl join."
+    },
+    {
+      "glyph": "R",
+      "position": [
+        64.0,
+        60.54048070021881
+      ],
+      "angle": 151.17434952734456,
+      "reason": "Intentional concave branch between letter strokes; not a smooth bowl join."
+    }
+  ],
+  "xi_bar_dimensions": [
+    [
+      86.0,
+      20.24
+    ],
+    [
+      86.0,
+      20.240000000000002
+    ],
+    [
+      86.0,
+      20.239999999999995
+    ]
+  ],
+  "double_arrow_contours": 1,
+  "scope": "The upright default cubic master. Straight-to-curve terminals and stroke intersections are intentional corners; this does not certify optical quality.",
+  "dense_stroke_checks": 40,
+  "dense_stroke_weights": [
+    500,
+    900,
+    925,
+    950
+  ],
+  "dense_normal_offsets_without_folds": true,
+  "sharp_s_single_contour": true,
+  "S_centerline_curvature_continuity_max_error": 9.367506770274758e-16,
+  "single_contour_G_K_k_checks": 162,
+  "K_k_join_heights": [
+    {
+      "glyph": "K",
+      "weight": 500,
+      "spine_connection_height": 14.162498571167006,
+      "stem_width": 12.0
+    },
+    {
+      "glyph": "k",
+      "weight": 500,
+      "spine_connection_height": 13.518765285829879,
+      "stem_width": 10.56
+    },
+    {
+      "glyph": "K",
+      "weight": 600,
+      "spine_connection_height": 18.786702734167278,
+      "stem_width": 14.5
+    },
+    {
+      "glyph": "k",
+      "weight": 600,
+      "spine_connection_height": 17.457719534224154,
+      "stem_width": 12.76
+    },
+    {
+      "glyph": "K",
+      "weight": 700,
+      "spine_connection_height": 23.51627785068858,
+      "stem_width": 17.0
+    },
+    {
+      "glyph": "k",
+      "weight": 700,
+      "spine_connection_height": 21.464606406708597,
+      "stem_width": 14.96
+    },
+    {
+      "glyph": "K",
+      "weight": 800,
+      "spine_connection_height": 28.37521338993478,
+      "stem_width": 19.5
+    },
+    {
+      "glyph": "k",
+      "weight": 800,
+      "spine_connection_height": 25.557183373259548,
+      "stem_width": 17.16
+    },
+    {
+      "glyph": "K",
+      "weight": 900,
+      "spine_connection_height": 33.39327434786497,
+      "stem_width": 22.0
+    },
+    {
+      "glyph": "k",
+      "weight": 900,
+      "spine_connection_height": 29.757930373532012,
+      "stem_width": 19.36
+    },
+    {
+      "glyph": "K",
+      "weight": 950,
+      "spine_connection_height": 38.81301182014666,
+      "stem_width": 24.0
+    },
+    {
+      "glyph": "k",
+      "weight": 950,
+      "spine_connection_height": 34.18308762318263,
+      "stem_width": 21.12
+    }
+  ]
+}

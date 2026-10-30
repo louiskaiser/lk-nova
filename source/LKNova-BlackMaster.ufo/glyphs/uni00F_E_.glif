@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00FE" format="2">
+  <advance width="626"/>
+  <unicode hex="00FE"/>
+  <note>
+Original rectangle/ellipse construction; upright default master.
+</note>
+  <outline>
+    <contour>
+      <point x="42.0" y="574.0" type="line"/>
+      <point x="366.8" y="574.0" type="line" smooth="yes"/>
+      <point x="486.64579071328217" y="574.0"/>
+      <point x="583.8" y="501.13434303496166"/>
+      <point x="583.8" y="411.25" type="curve" smooth="yes"/>
+      <point x="583.8" y="321.36565696503834"/>
+      <point x="486.64579071328217" y="248.5"/>
+      <point x="366.8" y="248.5" type="curve" smooth="yes"/>
+      <point x="42.0" y="248.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="180.6" y="478.366" type="line"/>
+      <point x="180.6" y="344.13399999999996" type="line"/>
+      <point x="366.8" y="344.13399999999996" type="line" smooth="yes"/>
+      <point x="416.22285769285804" y="344.13399999999996"/>
+      <point x="456.288" y="374.18285673035643"/>
+      <point x="456.288" y="411.25" type="curve" smooth="yes"/>
+      <point x="456.288" y="448.31714326964357"/>
+      <point x="416.22285769285804" y="478.366"/>
+      <point x="366.8" y="478.366" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="42.0" y="253.75" type="line"/>
+      <point x="180.6" y="253.75" type="line"/>
+      <point x="180.6" y="49.0" type="line"/>
+      <point x="42.0" y="49.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="42.0" y="700.0" type="line"/>
+      <point x="180.6" y="700.0" type="line"/>
+      <point x="180.6" y="-175.0" type="line"/>
+      <point x="42.0" y="-175.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

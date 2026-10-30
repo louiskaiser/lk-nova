@@ -1,0 +1,40 @@
+{
+  "family": "LK Nova",
+  "version": "1.000",
+  "status": "passed",
+  "encoded_characters": 280,
+  "glyphs": 282,
+  "axes": 9,
+  "all_ascii_and_latin1": true,
+  "german_characters": true,
+  "brand_alternates_separate": true,
+  "unrestricted_embedding": true,
+  "embedded_red_square": true,
+  "square_size_axis": "MARK",
+  "each_axis_changes_outlines": {
+    "wght": true,
+    "wdth": true,
+    "slnt": true,
+    "CNTR": true,
+    "ROND": true,
+    "APER": true,
+    "RLEG": true,
+    "XBAR": true,
+    "MARK": true
+  },
+  "sampled_locations": 33,
+  "glyph_instances_checked": 9240,
+  "rounded_cap_and_foot_anchor_checks": 38,
+  "sampled_bounds": [
+    -120.83499064284509,
+    -210,
+    1606.8828471646875,
+    896
+  ],
+  "binary_roundtrips": [
+    "LKNova-VF.woff2",
+    "LKNova-Black.ttf",
+    "LKNova-Medium.ttf"
+  ],
+  "scope": "Automated structure, coverage and sampled interpolation checks. Optical proofing is not exhaustive."
+}

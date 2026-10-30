@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0076" format="2">
+  <advance width="601"/>
+  <unicode hex="0076"/>
+  <note>
+Original rectangle/ellipse construction; upright default master.
+</note>
+  <outline>
+    <contour>
+      <point x="42.0" y="504.0" type="line"/>
+      <point x="155.652" y="504.0" type="line"/>
+      <point x="300.3" y="117.53280000000007" type="line"/>
+      <point x="444.9479999999999" y="504.0" type="line"/>
+      <point x="558.6" y="504.0" type="line"/>
+      <point x="366.21815999999995" y="0.0" type="line"/>
+      <point x="234.38183999999998" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

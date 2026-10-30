@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2018" format="2">
+  <advance width="170"/>
+  <unicode hex="2018"/>
+  <note>
+Original rectangle/ellipse construction; upright default master.
+</note>
+  <outline>
+    <contour>
+      <point x="127.932" y="520.52" type="line"/>
+      <point x="42.0" y="520.52" type="line"/>
+      <point x="42.0" y="616.0" type="line"/>
+      <point x="115.33200000000001" y="700.0" type="line"/>
+      <point x="138.24384" y="700.0" type="line"/>
+      <point x="102.1524" y="616.0" type="line"/>
+      <point x="127.932" y="616.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

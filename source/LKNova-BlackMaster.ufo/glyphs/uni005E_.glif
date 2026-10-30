@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni005E" format="2">
+  <advance width="487"/>
+  <unicode hex="005E"/>
+  <note>
+Original rectangle/ellipse construction; upright default master.
+</note>
+  <outline>
+    <contour>
+      <point x="75.55080926652924" y="390.1770584297518" type="line"/>
+      <point x="8.449190733470758" y="449.8229415702482" type="line"/>
+      <point x="210.04919073347074" y="729.8229415702482" type="line"/>
+      <point x="277.1508092665292" y="670.1770584297518" type="line"/>
+    </contour>
+    <contour>
+      <point x="210.04919073347074" y="670.1770584297518" type="line"/>
+      <point x="277.1508092665292" y="729.8229415702482" type="line"/>
+      <point x="478.7508092665292" y="449.8229415702482" type="line"/>
+      <point x="411.6491907334708" y="390.1770584297518" type="line"/>
+    </contour>
+  </outline>
+</glyph>

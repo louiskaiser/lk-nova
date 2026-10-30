@@ -1,0 +1,112 @@
+{
+  "status": "passed",
+  "languages": [
+    "en",
+    "de-DE",
+    "de-CH",
+    "zh-CN"
+  ],
+  "english_source": true,
+  "device_language_and_english_fallback": true,
+  "language_switch_preserves_text_and_axes": true,
+  "unnecessary_copy_removed": true,
+  "default_motion_help_hidden": true,
+  "layout": [
+    {
+      "lang": "en",
+      "width": 360,
+      "scroll": 360
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "lang": "en",
+      "width": 760,
+      "scroll": 760
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "lang": "de-DE",
+      "width": 360,
+      "scroll": 360
+    },
+    {
+      "lang": "de-DE",
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "lang": "de-DE",
+      "width": 760,
+      "scroll": 760
+    },
+    {
+      "lang": "de-DE",
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "lang": "de-CH",
+      "width": 360,
+      "scroll": 360
+    },
+    {
+      "lang": "de-CH",
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "lang": "de-CH",
+      "width": 760,
+      "scroll": 760
+    },
+    {
+      "lang": "de-CH",
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "lang": "zh-CN",
+      "width": 360,
+      "scroll": 360
+    },
+    {
+      "lang": "zh-CN",
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "lang": "zh-CN",
+      "width": 760,
+      "scroll": 760
+    },
+    {
+      "lang": "zh-CN",
+      "width": 1440,
+      "scroll": 1440
+    }
+  ],
+  "axes": {
+    "wght": true,
+    "wdth": true,
+    "slnt": true,
+    "CNTR": true,
+    "ROND": true,
+    "APER": true,
+    "RLEG": true,
+    "XBAR": true,
+    "MARK": true
+  },
+  "first_animated_weight": 902.01,
+  "reduced_motion_respected": true,
+  "css_and_glyph_browser": true,
+  "local_links_valid": true,
+  "errors": []
+}

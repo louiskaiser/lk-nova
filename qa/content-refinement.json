@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "english_source": true,
+  "localized_versions": [
+    "de-DE",
+    "de-CH",
+    "zh-CN"
+  ],
+  "removed": [
+    "section overlines",
+    "axis helper paragraphs",
+    "default animation help",
+    "visible animation-axis caption",
+    "mockup captions and navigation",
+    "timeline",
+    "redundant download metadata",
+    "footer version label"
+  ],
+  "brand_rules": [
+    "locale.english-source",
+    "locale.minimum",
+    "locale.system",
+    "locale.names",
+    "writing.concise",
+    "writing.address",
+    "design.no-empty-decoration"
+  ],
+  "font_outlines_changed": false
+}

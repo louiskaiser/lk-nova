@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "version": "1.000",
+  "ufo_glyphs": 280,
+  "valid_svg_glyphs": 280,
+  "cubic_master_vs_ttf_max_bounds_error_font_units": 0.5,
+  "all_advances_match": true
+}

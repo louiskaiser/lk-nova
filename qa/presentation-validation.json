@@ -1,0 +1,50 @@
+{
+  "status": "passed",
+  "family": "LK Nova",
+  "version": "1.000",
+  "browser": "Installed Chrome via Playwright",
+  "font_loaded": true,
+  "layout": [
+    {
+      "width": 360,
+      "scroll": 360
+    },
+    {
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "width": 760,
+      "scroll": 760
+    },
+    {
+      "width": 1024,
+      "scroll": 1024
+    },
+    {
+      "width": 1440,
+      "scroll": 1440
+    }
+  ],
+  "axis_pixel_effects": {
+    "wght": true,
+    "wdth": true,
+    "slnt": true,
+    "CNTR": true,
+    "ROND": true,
+    "APER": true,
+    "RLEG": true,
+    "XBAR": true,
+    "MARK": true
+  },
+  "first_animated_weight": 902.22,
+  "reduced_motion_respected": true,
+  "preview_sizes": [
+    "100px",
+    "100px"
+  ],
+  "glyph_browser": true,
+  "signature_baseline_error": 0,
+  "all_local_links_exist": true,
+  "errors": []
+}

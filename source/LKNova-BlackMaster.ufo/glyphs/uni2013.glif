@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2013" format="2">
+  <advance width="556"/>
+  <unicode hex="2013"/>
+  <note>
+Original rectangle/ellipse construction; upright default master.
+</note>
+  <outline>
+    <contour>
+      <point x="42.0" y="420.84" type="line"/>
+      <point x="514.5" y="420.84" type="line"/>
+      <point x="514.5" y="279.15999999999997" type="line"/>
+      <point x="42.0" y="279.15999999999997" type="line"/>
+    </contour>
+  </outline>
+</glyph>

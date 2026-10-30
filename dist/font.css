@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "LK Nova";
+  src: url("./LKNova-VF.woff2") format("woff2");
+  font-weight: 500 950;
+  font-stretch: 85% 140%;
+  font-style: normal;
+  font-display: swap;
+}
+
+.lk-display {
+  --lk-weight: 900;
+  --lk-width: 100;
+  --lk-slant: 0;
+  --lk-contrast: 92;
+  --lk-roundness: 50;
+  --lk-aperture: 36;
+  --lk-leg: 80;
+  --lk-crossbar: 76;
+  --lk-mark: 20;
+  font-family: "LK Nova", sans-serif;
+  font-synthesis: none;
+  text-rendering: geometricPrecision;
+  font-weight: 900;
+  font-variation-settings:
+    "wght" var(--lk-weight), "wdth" var(--lk-width),
+    "slnt" var(--lk-slant), "CNTR" var(--lk-contrast),
+    "ROND" var(--lk-roundness), "APER" var(--lk-aperture),
+    "RLEG" var(--lk-leg), "XBAR" var(--lk-crossbar), "MARK" var(--lk-mark);
+  letter-spacing: -0.05em;
+}
+
+.lk-uppercase { text-transform: uppercase; }
+.lk-title-tail { display: inline-block; white-space: nowrap; }
+
+/* 20% of this family's 0.7em cap height; bottom sits on the text baseline. */
+.lk-endmark {
+  display: inline-block;
+  width: 0.14em;
+  height: 0.14em;
+  margin-inline-start: 0.035em;
+  vertical-align: baseline;
+  background: #d40000;
+}
+
+.lk-axis-animation {
+  animation: lk-weight-breathe 2.2s ease-in-out infinite alternate;
+}
+@keyframes lk-weight-breathe {
+  from {font-variation-settings: "wght" 500, "wdth" 100, "slnt" 0, "CNTR" 92, "ROND" 50, "APER" 36, "RLEG" 80, "XBAR" 76, "MARK" 20;}
+  to {font-variation-settings: "wght" 950, "wdth" 100, "slnt" 0, "CNTR" 92, "ROND" 50, "APER" 36, "RLEG" 80, "XBAR" 76, "MARK" 20;}
+}
+@media (prefers-reduced-motion: reduce) {
+  .lk-axis-animation {animation: none;}
+}
+
+.lk-brand-ligatures { font-feature-settings: "dlig" 1; }

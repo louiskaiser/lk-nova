@@ -1,0 +1,61 @@
+{
+  "status": "passed",
+  "version": "1.000",
+  "approved_design_reference": "Louis Kaiser Display 0.900",
+  "unchanged_tables": {
+    "glyf": true,
+    "gvar": true,
+    "hmtx": true,
+    "cmap": true,
+    "GPOS": true,
+    "GSUB": true
+  },
+  "static_fonts": [
+    {
+      "style": "Medium",
+      "weight": 500,
+      "family": "LK Nova",
+      "legacy_family": "LK Nova Medium",
+      "postscript": "LKNova-Medium"
+    },
+    {
+      "style": "SemiBold",
+      "weight": 600,
+      "family": "LK Nova",
+      "legacy_family": "LK Nova SemiBold",
+      "postscript": "LKNova-SemiBold"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "family": "LK Nova",
+      "legacy_family": "LK Nova",
+      "postscript": "LKNova-Bold"
+    },
+    {
+      "style": "ExtraBold",
+      "weight": 800,
+      "family": "LK Nova",
+      "legacy_family": "LK Nova ExtraBold",
+      "postscript": "LKNova-ExtraBold"
+    },
+    {
+      "style": "Black",
+      "weight": 900,
+      "family": "LK Nova",
+      "legacy_family": "LK Nova Black",
+      "postscript": "LKNova-Black"
+    },
+    {
+      "style": "UltraBlack",
+      "weight": 950,
+      "family": "LK Nova",
+      "legacy_family": "LK Nova UltraBlack",
+      "postscript": "LKNova-UltraBlack"
+    }
+  ],
+  "glyphs": 282,
+  "encoded_characters": 280,
+  "named_variable_instances": 8,
+  "embedding_restrictions": 0
+}

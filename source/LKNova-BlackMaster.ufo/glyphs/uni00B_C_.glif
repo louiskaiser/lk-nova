@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00BC" format="2">
+  <advance width="746"/>
+  <unicode hex="00BC"/>
+  <note>
+Original rectangle/ellipse construction; upright default master.
+</note>
+  <outline>
+    <contour>
+      <point x="61.845" y="623.0" type="line"/>
+      <point x="155.39999999999998" y="700.0" type="line"/>
+      <point x="217.77" y="700.0" type="line"/>
+      <point x="217.77" y="350.0" type="line"/>
+      <point x="155.39999999999998" y="350.0" type="line"/>
+      <point x="155.39999999999998" y="613.7584722357547" type="line"/>
+      <point x="61.845" y="536.7584722357547" type="line"/>
+    </contour>
+    <contour>
+      <point x="547.89" y="350.0" type="line"/>
+      <point x="610.26" y="350.0" type="line"/>
+      <point x="610.26" y="126.0" type="line"/>
+      <point x="666.96" y="126.0" type="line"/>
+      <point x="666.96" y="56.69999999999993" type="line"/>
+      <point x="610.26" y="56.69999999999993" type="line"/>
+      <point x="610.26" y="0.0" type="line"/>
+      <point x="547.89" y="0.0" type="line"/>
+      <point x="547.89" y="56.69999999999993" type="line"/>
+      <point x="394.8" y="56.69999999999993" type="line"/>
+      <point x="394.8" y="126.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="473.1147282758668" y="126.0" type="line"/>
+      <point x="547.89" y="126.0" type="line"/>
+      <point x="547.89" y="235.41054847609797" type="line"/>
+    </contour>
+    <contour>
+      <point x="241.3653817334276" y="-13.013716315608917" type="line"/>
+      <point x="195.4346182665724" y="13.013716315608917" type="line"/>
+      <point x="516.7346182665724" y="713.013716315609" type="line"/>
+      <point x="562.6653817334276" y="686.986283684391" type="line"/>
+    </contour>
+  </outline>
+</glyph>
